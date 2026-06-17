@@ -279,8 +279,8 @@ These filters allow users to explore customer behavior across multiple dimension
 
 B.Tech – Artificial Intelligence & Data Science
 
-- GitHub: https://github.com/your-github
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: [https://github.com/your-github](https://github.com/Saisanthosh2155)
+- LinkedIn: www.linkedin.com/in/sai-santhosh-905998293
 
 ---
 
