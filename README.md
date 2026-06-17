@@ -259,26 +259,6 @@ These filters allow users to explore customer behavior across multiple dimension
 
 ---
 
-## 📁 Project Structure
-
-```text
-Customer-Behavior-Analysis/
-│
-├── Dataset/
-│   └── Customer_Behavior_Data.xlsx
-│
-├── Python/
-│   └── Data_Cleaning.ipynb
-│
-├── Dashboard/
-│   └── Customer_Behavior_Dashboard.pbix
-│
-├── Images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
 ---
 
 ## 🚀 Future Enhancements
