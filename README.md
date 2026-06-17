@@ -106,6 +106,9 @@ Analyzed:
 
 ![Customer Behavior Dashboard](Images/dashboard.png)
 
+🔗 **Live Dashboard:**  
+https://app.powerbi.com/links/DlW8pyrbMM?ctid=0e061a39-ceed-4e09-ae89-509fa6698399&pbi_source=linkShare
+
 ---
 
 ## 📈 Dashboard Analysis
